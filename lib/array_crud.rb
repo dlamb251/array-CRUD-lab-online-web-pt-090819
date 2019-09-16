@@ -3,7 +3,7 @@
 end
 
 def create_an_array 
-  [i, am, really, learning]
+  ["i", "am", "really", "learning"]
 end 
 # end
 
